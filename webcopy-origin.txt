@@ -1,0 +1,52 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\ajax\libs\webfont\1.6.26\webfont-1.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/6563365ddd9c45e1e32d7426_gta.png
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\6563365ddd9c45e1e32d7426_gta-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/656338766bc7baf9b882f033_logogta.svg
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\656338766bc7baf9b882f033_logogta-1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/65633d737bcf718b80fa8adc_gtabac.png
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\65633d737bcf718b80fa8adc_gtabac-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/656340bb7688a3e476620a5d_thex.svg
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\656340bb7688a3e476620a5d_thex-1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/65634293c9018bf978168b0d_23ed.png
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\65634293c9018bf978168b0d_23ed-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/6563429a9cd7f6b881259b91_drfg.png
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\6563429a9cd7f6b881259b91_drfg-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/css/gta-f2ee50.webflow.32f909f8c.css
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\css\gta-f2ee50.webflow.32f909f8c-1.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/656331842f3bb75b0ba60361/js/webflow.0213123a3.js
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\js\webflow.0213123a3-1.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=656331842f3bb75b0ba60361
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\js\jquery-3.5.1.min.dc5e7f18c8-1.js
+Content Type: application/javascript
+
+Uri: https://tracker.nocodelytics.com/api/tracker/assets/nocodelytics.js
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\api\tracker\assets\nocodelytics-1.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/656331842f3bb75b0ba60361/656337094503332060a2fcf6_pricedown bl.otf
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\656331842f3bb75b0ba60361\656337094503332060a2fcf6_pricedown bl-1.otf
+Content Type: application/x-font-otf
+
+Uri: https://www.grandtheftassets.com/
+File Name: C:\Downloaded Web Sites\www.grandtheftassets.com\index-1.htm
+Content Type: text/html
+
